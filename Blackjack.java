@@ -1,3 +1,4 @@
+//debug for lab 5//
 import java.util.*;
 import java.util.Scanner;
 
